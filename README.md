@@ -1,4 +1,4 @@
-![WhatsApp Image 2023-08-10 at 14 33 33](https://github.com/CodeWithJainendra/Calculator/assets/85057672/ca581f14-9645-4dec-912e-2164c497a94b)# Calculator
+# Calculator
 Introducing CALCPRO: Your Ultimate Calculator App
 
 Experience the power of seamless mathematical calculations with CALCPRO – the cutting-edge calculator app that combines innovation and simplicity to enhance your everyday computations. Whether you're a student, professional, or anyone seeking precise calculations, CALCPRO is here to transform your numerical tasks into a breeze.
